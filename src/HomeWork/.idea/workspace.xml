@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="6ecaa290-b237-4c1f-873d-261c60495be9" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/../../.gitignore" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../Java CSTAD.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exception/LearnException.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1Day1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week1Day2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week3Day1.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week4.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Week4Day2.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/Test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/array/Day3.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/array/ExampleArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/array/UpdateArrayElement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/list/Arraylist/arrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/list/Arraylist/arrayListString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/list/Vector/vector/ExampleVector.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/list/Vector/vector/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/list/arrayList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/map/ExampleMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/map/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/map/InsertElementInMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/map/UUIDInMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/set/ExampleHashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/set/ExampleTreeSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/set/Exercise.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/streamAPI/exampleAPI.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/streamAPI/map.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/streamAPI/streamAPILearning.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/collectionFramework/treeMap/ExampleTreeMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/controlflow/Example.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/controlflow/IfElseStetement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/controlflow/NestedStatement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/loop/DoWhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/loop/ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/loop/PracticeLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/loop/WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/switchcase/AutBreak.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/switchcase/ExampleSwitch_case.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../JavaBasic/textblock/TextBlock.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../Main.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../oop/LearOOP.java" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../.." />
+  </component>
+  <component name="ProjectColorInfo"><![CDATA[{
+  "associatedIndex": 5
+}]]></component>
+  <component name="ProjectId" id="2pEedgd6Wpkj3DGpJdXOO9nQK1p" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true"
+  }
+}]]></component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="6ecaa290-b237-4c1f-873d-261c60495be9" name="Changes" comment="" />
+      <created>1732335754650</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1732335754650</updated>
+    </task>
+    <servers />
+  </component>
+</project>
