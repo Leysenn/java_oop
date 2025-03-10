@@ -14,7 +14,7 @@ public class Teacher extends Person{
         Teacher teacher = new Teacher();
         teacher.id= 1;
         teacher.name= "Dara";
-//        teacher.email= "Dara123@gmail.com";
+        teacher.email= "Dara123@gmail.com";
         teacher.getName();
         teacher.getId();
         System.out.println(teacher);

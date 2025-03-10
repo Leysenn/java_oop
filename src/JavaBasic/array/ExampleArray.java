@@ -12,7 +12,8 @@ public class ExampleArray {
 
 
                 String names [] = {"KoKo","kAKA"};// initialization
-                names[0] = "Apple"; //assign
+                names[0] = "Apple";
+                names[1]= "dara";//assign
                 System.out.println(Arrays.toString(names));
 
 
